@@ -1,0 +1,22 @@
+body {
+  background-color: #222;
+}
+
+.tile {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.grass {
+  background-color: #252;
+}
+
+.wall {
+  background-color: #322;
+}
+
+.player {
+  background-color: #225;
+}
